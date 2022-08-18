@@ -5,9 +5,9 @@
 [Notebook no Google Colab](https://colab.research.google.com/drive/1ZHPWpX3hZ9gxoDjyadBSXSeW24xH5R0r)
 
 Links úteis
-https://cursos.alura.com.br/course/python-tipos-listas-numpy
-https://numpy.org/
-https://www.alura.com.br/artigos/google-colab-o-que-e-e-como-usar
+[Curso](https://cursos.alura.com.br/course/python-tipos-listas-numpy)
+[Numpy.org](https://numpy.org/)
+[Artigo: O que é o Google Colab  e como usar?](https://www.alura.com.br/artigos/google-colab-o-que-e-e-como-usar)
 
 ## Aula 1 - Ambiente do cientista de dados
 - Introdução
@@ -17,4 +17,7 @@ https://www.alura.com.br/artigos/google-colab-o-que-e-e-como-usar
 
 ## Aula 2 - Características do Python
 - Operações matemáticas
-- [Entendendo variáveis](https://cursos.alura.com.br/course/python-tipos-listas-numpy/task/65235) (parei no minuto 2:40)
+- Entendendo variáveis
+- Tipos de dados
+- Conversão de tipos
+- Identação, comentários e formatação de *strings*
